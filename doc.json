@@ -1,0 +1,135 @@
+{
+  "orderId": 28501,
+  "orderDate": 1563576817,
+  "source": "ANDROID",
+  "deliveryAddress": {
+    "addressId": 127951,
+    "name": "MURARI KUMAR",
+    "number": "8076298126",
+    "address": "ls tower no 3 flat no 701 near ls guest house ",
+    "area": "Line Tank Road , Line Tank Rd, Ahirtoli, Ranchi, Jharkhand 834001, India",
+    "instructions": "jail chowk ls guest house ranchi jharkhand",
+    "pincode": 834001,
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "isBuyerVerified": 0
+  },
+  "buyer": {
+    "userId": 1050435,
+    "name": "Murari kumar",
+    "number": "8076298126",
+    "email": "kumarmurari719@gmail.com",
+    "userType": "USER",
+    "city": "Bihar Sharif"
+  },
+  "products": [
+    {
+      "transactionId": 36645,
+      "cartAdditionId": "NA",
+      "productId": 211838,
+      "productStatus": "SHIPPED",
+      "userRatingGiven": 0,
+      "userRating": {
+        "rating": "NA",
+        "comment": "NA"
+      },
+      "transactionType": "SELFSHIP",
+      "seller": {
+        "userId": 760802,
+        "name": "Hardy _291",
+        "number": "8169478013",
+        "email": "hinalsampat2@gmail.com",
+        "userType": "USER",
+        "city": "Mumbai"
+      },
+      "productDetails": {
+        "title": "being human",
+        "description": "different colours and sizes available",
+        "variantSku": "M",
+        "brand": "Club Factory",
+        "category": "Men/Topwear/CasualShirts",
+        "thumb": "https://cdn1.coutloot.com/760802_1547288319_1_thumb.jpg"
+      },
+      "money": {
+        "seller": {
+          "listedPrice": 790,
+          "saleDiscount": 0,
+          "discountType": "NA",
+          "closurePrice": 790,
+          "commisionPercent": 20,
+          "commision": 158,
+          "pickupCharges": 35,
+          "productEarnings": 597,
+          "sellerIncentive": 0,
+          "totalCashMade": 597
+        },
+        "transaction": {
+          "listingPrice": 790,
+          "cartPrice": 790,
+          "discount": 0,
+          "soldAt": 790,
+          "discountType": "NA"
+        },
+        "cashoutIsssued": 0,
+        "incentiveIssued": 0
+      },
+      "statusLogs": [],
+      "delivery": {
+        "deliveryVendor": "DELHIVERY",
+        "deliveryId": "12345678910"
+      }
+    }
+  ],
+  "payments": {
+    "cartTotalAmount": 790,
+    "discountAmount": 0,
+    "discountCoupon": {
+      "couponId": 0,
+      "couponCode": "NA",
+      "dealType": 0,
+      "orderSpecific": 0,
+      "amountOff": 0,
+      "percentOff": 0,
+      "categorySpecific": "NA",
+      "minAmount": 0,
+      "freeShiping": 0
+    },
+    "shippingAmount": 50,
+    "taxAmount": 28,
+    "shippingReceived": 0,
+    "finalAmount": 868,
+    "paidAmount": 0,
+    "balanceAmount": 868,
+    "paymentMethods": [
+      {
+        "paymentName": "COD",
+        "paymentAmount": 868,
+        "paymentDate": 0,
+        "paymentTransactionId": 32618
+      }
+    ],
+    "ledger": [
+      {
+        "totalOrderAmount": 868,
+        "paidAmount": 0,
+        "balanceAmount": 868,
+        "totalPaidAmount": 0,
+        "unclearedAmount": 0,
+        "comment": "Order Placed",
+        "ledgerData": [],
+        "ledgerDate": 1563557017
+      },
+      {
+        "totalOrderAmount": 790,
+        "paidAmount": 0,
+        "balanceAmount": 78,
+        "totalPaidAmount": null,
+        "unclearedAmount": 0,
+        "comment": "Product Cancelled",
+        "ledgerData": [],
+        "ledgerDate": 1564740167
+      }
+    ]
+  },
+  "__v": 0
+}
